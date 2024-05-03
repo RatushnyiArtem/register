@@ -1,0 +1,13 @@
+@import "partials/theme";
+
+html,
+body {
+  background-color: $primary-bg;
+  color: $black;
+  padding: 0;
+  height: 100vh;
+}
+
+#root {
+  min-height: 100%;
+}
